@@ -10,4 +10,4 @@
 import HelloWorld from './view/Home.vue';
 
   //
-</script>./view/HelloWorld.vue./view/Home.vue
+</script>
